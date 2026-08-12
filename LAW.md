@@ -11,7 +11,7 @@ A curated directory that helps you discover the Internet.
 
 ## Index
 
-* [Search Engines](#Search-engines)
+* [Search Engines and Web Indexes](#Search-engines-and-Web-Indexes)
 * [Coding](#Coding)
 * [Big tech](#Big-Tech)
 * [AI Large Language Models](#Search-engines)
@@ -28,13 +28,14 @@ A curated directory that helps you discover the Internet.
 * [Social Networks](#Social-Networks)
 * [NSFW (Porn)](#NSFW-%28Porn%29)
 
-## Search engines
+## Search engines and Web Indexes
 
 * [Startpage](https://www.startpage.com) - Somewhat more privacy-respecting Google alternative.
 * [DuckDuckGo](https://www.duckduckgo.com) - More privacy-respecting Google alternative using Bing search results.
 * [DuckDuckGo Lite](https://lite.duckduckgo.com) - DuckDuckGo but very lightweight. (SIDENOTE: Great for slow connections!)
 * [DuckDuckGo NoAI](https://noai.duckduckgo.com) - DuckDuckGo but filters out some AI stuff.
 * [DuckDuckGo HTML](https://html.duckduckgo.com) - DuckDuckGo but in plain HTML.
+* [LinkAWho Legacy](/legacy) - LinkAWho for old sites for PCs and sites for old PC targeting projects.
 
 ## Coding
 
