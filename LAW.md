@@ -39,13 +39,15 @@ A curated directory that helps you discover the Internet.
 
 ## Coding
 
+* [Cloud Computing Services | Microsoft Azure](https://azure.microsoft.com/en-us) - A cloud platform that has nice features, is more enterprise focused. Costs more if not in bulk.
+* [DigitalOcean](https://www.digitalocean.com) - A paid, more consumer-facing VPS that costs less if in non-bulk.
 * [Github](https://www.github.com) - The classic web-based Git solution - going farther than Git.
 * [VSCode Download](https://code.visualstudio.com/) - Download VSCode.
 * [VSCode Online](https://www.vscode.dev) - A somewhat restricted VSCode without need for download!
 * [Google Antigravity](https://antigravity.google/) - Google's family of tools for AI coding.
 * [NPM JS](https://www.npmjs.com/) - Website for NodeJS' "npm" package manager.
 * [PyPi](https://pypi.org/) - Find Python packages - typically installable via "pip".
-* [NodeJS](https://nodejs.org/) - The desktop Javascript engine and variant based on Chrome's V8 engine.
+* [NodeJS](https://nodejs.org) - The desktop Javascript engine and variant based on Chrome's V8 engine
 * [Python](https://www.python.org/) - The standard programming language for Toontown and AI projects alike... and more!
 * [Cloudflare](https://cloudflare.com) - Provides free public-facing tunneling and SSL certs.
 * [Tailscale](https://tailscale.com) - Provides private (via VPN) and public-facing (with subdomain) tunneling. Great for homelabbers.
@@ -63,73 +65,72 @@ A curated directory that helps you discover the Internet.
 
 ## Weather
 
-* [The Weather Channel](https://weather.com) - The classic Weather site. (SIDENOTE: Not just forecasts!)
-* [Weather Underground](https://www.wunderground.com/) - The alternative Weather site.
-* [National Weather Service](https://weather.gov) - Weather forecasts provided by the United States government for their citizens.
-* [wttr.in](https://wttr.in) - A very minimal frontend for providing weather. (SIDENOTE: Visitable via curl!)
+* [Weather Underground](https://www.wunderground.com) - Weather Underground provides local & long-range weather forecasts, weather reports, maps & tropical weather conditions for locations worldwide
+* [Weather.com](https://weather.com) - The Weather Channel - a classic.
+* [wttr.in — Weather Report](https://wttr.in) - Text-based Weather. Great for slow connections and use with CURL.
+* [Aviation Weather Center](https://aviationweather.gov) - Web site of the NWS Aviation Weather Center, delivering consistent, timely and accurate weather information for the world airspace system
+* [Solar Calculator - NOAA Global Monitoring Laboratory](https://gml.noaa.gov/grad/solcalc) - GML conducts research on greenhouse gas and carbon cycle feedbacks, changes in aerosols, and surface radiation, and recovery of stratospheric ozone.
 
 ## Cool Linux Distros
 
-* [Fedora](https://fedoraproject.org/) - A great Linux distro overall. (SIDENOTE: This is my opinion.)
-* [Bazzite](https://bazzite.gg/) - Best OS for gaming. Goes great on Steam Decks. (SIDENOTE: This is my opinion.)
-* [Ubuntu Server](https://ubuntu.com/download/server) - Best OS for use on servers. (SIDENOTE: This is my opinion.)
+* [Fedora](https://fedoraproject.org) - The best general-use distro.
+* [Bazzite – The operating system for the next generation of gamers](https://bazzite.gg) - The best gaming/HTPC distro.
+* [Ubuntu Server](https://ubuntu.com/download/server) - The best server distro.
 
 ## Cloud Gaming
 
-* [XBOX Cloud Gaming](https://xbox.com/play) - The best cloud gaming service for controller players. (SIDENOTE: This is my opinion. Requires subscription.)
-* [GeForce Now](https://play.geforcenow.com) - The best cloud gaming service for the PC enthusiast or for those who want a decent free option. Also works with XBOX Game Pass games. (SIDENOTE: This is my opinion. Free option has longer wait times and is limited to 1 hour per gaming session.)
+* [xbox.com](https://xbox.com/play) - For the XBOX fan, more like Netflix for games.
+* [play.geforcenow.com](https://play.geforcenow.com) - for the PC inclined, more like a PC.
 
 ## Web browsers
 
-* [Librewolf](https://librewolf.net) - The best desktop web browser for privacy. (SIDENOTE: This is my opinion.)
-* [Zen Browser](https://zen-browser.app/) - The best desktop web browser for general users. (SIDENOTE: This is my opinion.)
-* [Brave Browser](https://brave.com/download) - A more privacy-friendly Chrome-like browser. (SIDENOTE: Has crypto wallet and AI.)
+* [Brave](https://brave.com/download) - The latest version of the chromium-based Brave browser with ad and tracker blocking capabilities.
+* [LibreWolf](https://librewolf.net) - A custom version of Firefox, focused on privacy, security and freedom.
+* [Zen Browser](https://zen-browser.app) - Beautifully designed, privacy-focused, and packed with features.
 
 ## Delightfully Useless/Odd
 
-* [Hacker Typer](https://hackertyper.net/) - Fake typing like a hollywood hacker! I'm in.
-* [Pointer Pointer](https://pointerpointer.com/) - Puts an image of someone or something pointing at your mouse pointer (cursor).
-* [Is it Christmas?](https://isitchristmas.com/) - Says no all but one day of the year - that being Christmas Day.
-* [Cat Bounce](https://cat-bounce.com/) - Bouncy cats!
+* [isitchristmas.com](https://isitchristmas.com) - Says "YES" only on christmas, otherwise it says "NO".
+* [CAT BOUNCE!](https://cat-bounce.com) - Cat Bounce! A website of bouncing cats.
+* [Hacker Typer](https://hackertyper.net) - The original HackerTyper. Turning all your hacker dreams into pseudo-reality since 2011.
+* [Pointer Pointer](https://pointerpointer.com) - Please hold still while we locate your pointer...
 
 ## Comics & Humor
 
-* [I Can Haz Dad Joke?](https://icanhazdadjoke.com/) - A large repository of dad jokes.
-* [xkcd](https://xkcd.com/) - The classic nerd comic.
-* [turnoff.us](https://turnoff.us/) - Like "xkcd" but for computer folk.
-* [Devhumor](https://devhumor.com/) - Developer humor.
-* [The Coding Love](https://thecodinglove.com/) - Developer reaction memes.
+* [Devhumor](https://devhumor.com) - humor for developers
+* [The Coding Love](https://thecodinglove.com) - The Coding Love - Programmer humor: gifs, memes, jokes
+* [icanhazdadjoke](https://icanhazdadjoke.com) - The largest collection of dad jokes on the internet
+* [turnoff.us](https://turnoff.us) - {turnoff.us} is a webcomic that explores the worlds of programming, operating systems, and tech professional life.
+* [xkcd](https://xkcd.com) - Funny nerd webcomics
 
 ## Satirical News
 
-* [sparkSammy's Hot Tech Takes](https://sparksammy.com) - Truly fake news for the tech-heads.
-* [The Onion](https://theonion.com/) - The classic fake news site.
+* [The Onion](https://theonion.com) - The Onion brings you all of the latest news, stories, photos, videos and more from America's finest news source. (I say sarcastically)
+* [Sparksammy](https://sparksammy.com) - sparkSammy's Hot Tech Takes brings you all of the latest hot takes on tech news.
 
 ## Personal pages
 
-* [NodeMixaholic](https://nodemixaholic.com) - The person jotting all these links down.
-* [NodeMixaholic's Donation Page](https://coindrop.to/sam) - Perhaps you should pay me if you like my work and if you are able?
-* [PatchMixolydic](https://patchmixolydic.com) - A lesbian Touhou fan. (SIDENOTE: AI scraping and training explicitly denied, sadly.)
-* [Stallman.org](https://stallman.org) - Personal site of GNU founder Richard Stallman.
+* [Junction Point of Reality and Fantasy](https://patchmixolydic.com) - the site of a Tohou fan.
+* [NodeMixaholic's Coindrop (coindrop.to/sam)](https://coindrop.to/sam) - Send money to NodeMixaholic
+* [NodeMixaholic](https://nodemixaholic.com) - NondeMixaholic's site
+* [Richard Stallman's Personal Page](https://stallman.org) - The site of the GNU founder.
 
 ## Multimedia
 
-* [YouTube](https://youtube.com) - One of the net's most popular video sharing platforms.
-* [YouTube Music](https://music.youtube.com) - Music owned by the above.
+* [YouTube](https://youtube.com) - One of the net's most popular video sharing platforms
+* [YouTube Music](https://music.youtube.com) - With the YouTube Music app, enjoy over 100 million songs at your fingertips, plus albums, playlists, remixes, music videos, live performances, covers, and hard-to-find music you can’t get anywhere else.
 
 ## Graphic Design and Video Editing
 
-* [Unsplash](https://unsplash.com/) - Free stock photos. (SIDENOTE: Some under other licenses than others - so be careful!)
-* [Krita](https://krita.org/) - FOSS photo editor and painting tool. Similar to Adobe Photoshop.
-* [darktable](https://darktable.org/) - FOSS photography software. Similar to Adobe Lightroom.
-* [Kdenlive](https://kdenlive.org/) - FOSS video editor. Similar to Adobe Premiere.
-* [Ardour](https://ardour.org/) - FOSS DAW. Similar to Apple's Logic Pro.
-* [Audacity](https://www.audacityteam.org) - An advanced audio recording software.
-* [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - A proprietary video editor unlike most other video editors.
+* [Ardour](https://ardour.org) - Ardour is a free/open-source digital audio workstation for Windows, Linux, and macOS. Produce beats, record live music, track vocals, and mix for streaming
+* [Audacity](https://www.audacityteam.org) - Audacity is the world's most popular audio editing and recording app. Edit, mix, and enhance your audio tracks with the power of Audacity. Download now!
+* [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Professional video editing, color correction, visual effects and audio post production all in a single application. Free and paid versions for Mac, Windows and Linux.
+* [Kdenlive](https://kdenlive.org) - Kdenlive is the acronym for KDE Non-Linear Video Editor. It works on Linux, Windows, macOS, and BSD.
+* [Krita](https://krita.org) - Krita is the acronym for KDE Photo Editor. It works on Linux, Windows, macOS, and BSD.
 
 ## Social Networks
 
-* [Bluesky](https://bsky.app) - The true white-tent social network. (SIDENOTE: *Somewhat* politically liberal, and has the users to match.)
+* [Bluesky](https://bsky.app) - Social media as it should be. Find your community among millions of users, unleash your creativity, and have some fun again.
 
 ## NSFW (Porn)
 
