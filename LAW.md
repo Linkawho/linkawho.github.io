@@ -14,7 +14,7 @@ A curated directory that helps you discover the Internet.
 * [Search Engines and Web Indexes](#Search-engines-and-Web-Indexes)
 * [Coding](#Coding)
 * [Big tech](#Big-Tech)
-* [AI Large Language Models](#Search-engines)
+* [AI Large Language Models](#AI-Large-Language-Models)
 * [Weather](#Weather)
 * [Operating Systems](#Operating-Systems)
 * [Cloud Gaming](#Cloud-Gaming)
@@ -56,7 +56,7 @@ A curated directory that helps you discover the Internet.
 
 * [Microsoft](https://microsoft.com) - creator of the operating system most of us have to *deal with.*
 * [Android](https://android.com) - Google's phone OS.
-* [Apple](https://apple.com) - The most user-friendly and privacy-respecting big tech company.
+* [Apple](https://apple.com) - The most user-friendly and privacy-respecting big tech company, in my opinon.
 
 ## AI Large Language Models
 
