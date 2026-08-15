@@ -99,20 +99,20 @@ A curated directory that helps you discover the Internet.
 
 ## Comics & Humor
 
-* [Devhumor](https://devhumor.com) - humor for developers
-* [The Coding Love](https://thecodinglove.com) - Programmer humor: gifs, memes, jokes
-* [icanhazdadjoke](https://icanhazdadjoke.com) - The largest collection of dad jokes on the internet
+* [Devhumor](https://devhumor.com) - humor for developers.
+* [The Coding Love](https://thecodinglove.com) - Programmer humor: gifs, memes, jokes.
+* [icanhazdadjoke](https://icanhazdadjoke.com) - The largest collection of dad jokes on the internet.
 * [turnoff.us](https://turnoff.us) - a webcomic that explores the worlds of tech and professional life.
 * [xkcd](https://xkcd.com) - Funny nerd webcomics.
 
 ## Satirical News
 
-* [The Onion](https://theonion.com) - The Onion brings you all of the latest news, stories, photos, videos and more from America's finest news source. (SIDENOTE: I say sarcastically)
+* [The Onion](https://theonion.com) - The Onion brings you all of the latest news, stories, photos, videos and more from America's finest news source. (SIDENOTE: I say sarcastically.)
 * [Sparksammy](https://sparksammy.com) - sparkSammy's Hot Tech Takes brings you all of the latest hot takes on tech news. (SIDENOTE: Some way too spice to handle!)
 
 ## Personal pages
 
-* [Junction Point of Reality and Fantasy](https://patchmixolydic.com) - The site of a Tohou fan.
+* [Junction Point of Reality and Fantasy](https://patchmixolydic.com) - The site of a lesbian Tohou fan.
 * [NodeMixaholic's Coindrop (coindrop.to/sam)](https://coindrop.to/sam) - Send money to NodeMixaholic
 * [NodeMixaholic](https://nodemixaholic.com) - NondeMixaholic's site.
 * [Richard Stallman's Personal Page](https://stallman.org) - The site of the GNU founder.
@@ -130,11 +130,11 @@ A curated directory that helps you discover the Internet.
 * [Krita](https://krita.org) - Krita is the KDE Photo Editor. It works on Linux, Windows, macOS, and BSD. Similar to Adobe Photoshop.
 * [darktable](https://darktable.org/) - FOSS photography software. Similar to Adobe Lightroom.
 * [Ardour](https://ardour.org) - Ardour is a free/open-source digital audio workstation for Windows, Linux, and macOS. Similar to Apple's Logic Pro.
-* [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Professional video editing, color correction, visual effects and audio post production all in a single application. Free and paid versions for Mac, Windows and Linux.
+* [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Professional video editing, color correction, visual effects and audio post production all in a single application. Free and paid versions for Mac, Windows and Linux. (SIDENOTE: Linux version tends to have tons of compatibility issues. Stick with Kdenlive if you plan on going Linux.)
 
 ## Social Networks
 
-* [Bluesky](https://bsky.app) - Social media as it should be. Find your community among millions of users, unleash your creativity, and have some fun again.
+* [Bluesky](https://bsky.app) - Make social media fun again - the real white tent social media network. (SIDENOTE: High count of overly liberal users.)
 
 ## NSFW (Porn)
 
