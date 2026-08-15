@@ -16,7 +16,7 @@ A curated directory that helps you discover the Internet.
 * [Big tech](#Big-Tech)
 * [AI Large Language Models](#Search-engines)
 * [Weather](#Weather)
-* [Cool Linux Distros](#Cool-Linux-Distros)
+* [Operating Systems](#Operating-Systems)
 * [Cloud Gaming](#Cloud-Gaming)
 * [Web browsers](#Web-browsers)
 * [Delightfully Useless/Odd](#Delightfully-Useless%2FOdd)
@@ -47,7 +47,7 @@ A curated directory that helps you discover the Internet.
 * [Google Antigravity](https://antigravity.google/) - Google's family of tools for AI coding.
 * [NPM JS](https://www.npmjs.com/) - Website for NodeJS' "npm" package manager.
 * [PyPi](https://pypi.org/) - Find Python packages - typically installable via "pip".
-* [NodeJS](https://nodejs.org) - The desktop Javascript engine and variant based on Chrome's V8 engine
+* [NodeJS](https://nodejs.org) - The desktop Javascript engine and variant based on Chrome's V8 engine.
 * [Python](https://www.python.org/) - The standard programming language for Toontown and AI projects alike... and more!
 * [Cloudflare](https://cloudflare.com) - Provides free public-facing tunneling and SSL certs.
 * [Tailscale](https://tailscale.com) - Provides private (via VPN) and public-facing (with subdomain) tunneling. Great for homelabbers.
@@ -65,17 +65,19 @@ A curated directory that helps you discover the Internet.
 
 ## Weather
 
-* [Weather Underground](https://www.wunderground.com) - Weather Underground provides local & long-range weather forecasts, weather reports, maps & tropical weather conditions for locations worldwide
+* [Weather Underground](https://www.wunderground.com) - Weather Underground provides local & long-range weather forecasts.
 * [Weather.com](https://weather.com) - The Weather Channel - a classic.
 * [wttr.in — Weather Report](https://wttr.in) - Text-based Weather. Great for slow connections and use with CURL.
-* [Aviation Weather Center](https://aviationweather.gov) - Web site of the NWS Aviation Weather Center, delivering consistent, timely and accurate weather information for the world airspace system
+* [Aviation Weather Center](https://aviationweather.gov) - Web site of the NWS Aviation Weather Center, delivering consistent, timely and accurate weather information for the world airspace system.
 * [Solar Calculator - NOAA Global Monitoring Laboratory](https://gml.noaa.gov/grad/solcalc) - GML conducts research on greenhouse gas and carbon cycle feedbacks, changes in aerosols, and surface radiation, and recovery of stratospheric ozone.
 
-## Cool Linux Distros
+## Operating Systems
 
-* [Fedora](https://fedoraproject.org) - The best general-use distro.
-* [Bazzite – The operating system for the next generation of gamers](https://bazzite.gg) - The best gaming/HTPC distro.
-* [Ubuntu Server](https://ubuntu.com/download/server) - The best server distro.
+* [Fedora](https://fedoraproject.org) - The best general-use distro in my opinion.
+* [Bazzite – The operating system for the next generation of gamers](https://bazzite.gg) - The best gaming/HTPC distro in my opinion.
+* [Ubuntu Server](https://ubuntu.com/download/server) - The best server distro in my opinion.
+* [Windows 11](https://www.microsoft.com/en-au/software-download/windows11) - The operating system we all try to tolerate.
+* [macOS](https://www.apple.com/os/macos) - The best general-use desktop OS in my opinion. Period.
 
 ## Cloud Gaming
 
@@ -90,43 +92,45 @@ A curated directory that helps you discover the Internet.
 
 ## Delightfully Useless/Odd
 
-* [isitchristmas.com](https://isitchristmas.com) - Says "YES" only on christmas, otherwise it says "NO".
-* [CAT BOUNCE!](https://cat-bounce.com) - Cat Bounce! A website of bouncing cats.
-* [Hacker Typer](https://hackertyper.net) - The original HackerTyper. Turning all your hacker dreams into pseudo-reality since 2011.
+* [isitchristmas.com](https://isitchristmas.com) - Says "YES" only at Christmas, otherwise it says "NO".
+* [CAT BOUNCE!](https://cat-bounce.com) - A website of bouncing cats.
+* [Hacker Typer](https://hackertyper.net) - Providing Pretend Hacking as a Service since 2011.
 * [Pointer Pointer](https://pointerpointer.com) - Please hold still while we locate your pointer...
 
 ## Comics & Humor
 
 * [Devhumor](https://devhumor.com) - humor for developers
-* [The Coding Love](https://thecodinglove.com) - The Coding Love - Programmer humor: gifs, memes, jokes
+* [The Coding Love](https://thecodinglove.com) - Programmer humor: gifs, memes, jokes
 * [icanhazdadjoke](https://icanhazdadjoke.com) - The largest collection of dad jokes on the internet
-* [turnoff.us](https://turnoff.us) - {turnoff.us} is a webcomic that explores the worlds of programming, operating systems, and tech professional life.
-* [xkcd](https://xkcd.com) - Funny nerd webcomics
+* [turnoff.us](https://turnoff.us) - a webcomic that explores the worlds of tech and professional life.
+* [xkcd](https://xkcd.com) - Funny nerd webcomics.
 
 ## Satirical News
 
-* [The Onion](https://theonion.com) - The Onion brings you all of the latest news, stories, photos, videos and more from America's finest news source. (I say sarcastically)
-* [Sparksammy](https://sparksammy.com) - sparkSammy's Hot Tech Takes brings you all of the latest hot takes on tech news.
+* [The Onion](https://theonion.com) - The Onion brings you all of the latest news, stories, photos, videos and more from America's finest news source. (SIDENOTE: I say sarcastically)
+* [Sparksammy](https://sparksammy.com) - sparkSammy's Hot Tech Takes brings you all of the latest hot takes on tech news. (SIDENOTE: Some way too spice to handle!)
 
 ## Personal pages
 
-* [Junction Point of Reality and Fantasy](https://patchmixolydic.com) - the site of a Tohou fan.
+* [Junction Point of Reality and Fantasy](https://patchmixolydic.com) - The site of a Tohou fan.
 * [NodeMixaholic's Coindrop (coindrop.to/sam)](https://coindrop.to/sam) - Send money to NodeMixaholic
-* [NodeMixaholic](https://nodemixaholic.com) - NondeMixaholic's site
+* [NodeMixaholic](https://nodemixaholic.com) - NondeMixaholic's site.
 * [Richard Stallman's Personal Page](https://stallman.org) - The site of the GNU founder.
 
 ## Multimedia
 
-* [YouTube](https://youtube.com) - One of the net's most popular video sharing platforms
-* [YouTube Music](https://music.youtube.com) - With the YouTube Music app, enjoy over 100 million songs at your fingertips, plus albums, playlists, remixes, music videos, live performances, covers, and hard-to-find music you can’t get anywhere else.
+* [YouTube](https://youtube.com) - One of the net's most popular video sharing platforms.
+* [YouTube Music](https://music.youtube.com) -  Enjoy over 100 million songs at your fingertips.
 
 ## Graphic Design and Video Editing
 
-* [Ardour](https://ardour.org) - Ardour is a free/open-source digital audio workstation for Windows, Linux, and macOS. Produce beats, record live music, track vocals, and mix for streaming
-* [Audacity](https://www.audacityteam.org) - Audacity is the world's most popular audio editing and recording app. Edit, mix, and enhance your audio tracks with the power of Audacity. Download now!
+* [Unsplash](https://unsplash.com/) - Free stock photos. (SIDENOTE: Some under other licenses than others - so be careful!)
+* [Audacity](https://www.audacityteam.org) - Audacity is the world's most popular audio editing and recording app.
+* [Kdenlive](https://kdenlive.org) - Kdenlive is the KDE Non-Linear Video Editor. It works on Linux, Windows, macOS, and BSD. Similar to Adobe Premiere.
+* [Krita](https://krita.org) - Krita is the KDE Photo Editor. It works on Linux, Windows, macOS, and BSD. Similar to Adobe Photoshop.
+* [darktable](https://darktable.org/) - FOSS photography software. Similar to Adobe Lightroom.
+* [Ardour](https://ardour.org) - Ardour is a free/open-source digital audio workstation for Windows, Linux, and macOS. Similar to Apple's Logic Pro.
 * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Professional video editing, color correction, visual effects and audio post production all in a single application. Free and paid versions for Mac, Windows and Linux.
-* [Kdenlive](https://kdenlive.org) - Kdenlive is the acronym for KDE Non-Linear Video Editor. It works on Linux, Windows, macOS, and BSD.
-* [Krita](https://krita.org) - Krita is the acronym for KDE Photo Editor. It works on Linux, Windows, macOS, and BSD.
 
 ## Social Networks
 
