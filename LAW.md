@@ -24,7 +24,7 @@ A curated directory that helps you discover the Internet.
 * [Satirical News](#Satirical-News)
 * [Personal pages](#Personal-pages)
 * [Multimedia](#Multimedia)
-* [Graphic Design and Video Editing](#Graphic-Design-and-Video-Editing)
+* [Graphic Design and Video Editing](#Graphic-Design-Audio-Tools-and-Video-Editing)
 * [Social Networks](#Social-Networks)
 * [NSFW (Porn)](#NSFW-%28Porn%29)
 
@@ -122,7 +122,7 @@ A curated directory that helps you discover the Internet.
 * [YouTube](https://youtube.com) - One of the net's most popular video sharing platforms.
 * [YouTube Music](https://music.youtube.com) -  Enjoy over 100 million songs at your fingertips.
 
-## Graphic Design and Video Editing
+## Graphic Design, Audio Tools, and Video Editing
 
 * [Unsplash](https://unsplash.com/) - Free stock photos. (SIDENOTE: Some under other licenses than others - so be careful!)
 * [Audacity](https://www.audacityteam.org) - Audacity is the world's most popular audio editing and recording app.
